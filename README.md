@@ -1,4 +1,6 @@
 # Ladda
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2FLadda.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2FLadda?ref=badge_shield)
+
 
 Buttons with built-in loading indicators, effectively bridging the gap between action and feedback.
 
@@ -142,3 +144,6 @@ The project is tested in Chrome and Firefox. It Should Work™ in the current st
 ## License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2FLadda.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2FLadda?ref=badge_large)
